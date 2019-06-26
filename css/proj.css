@@ -1,0 +1,20 @@
+body
+{
+	background-color:green;
+}
+
+#container
+{
+	margin:auto;
+	width:800px;
+}
+.elem
+{
+	background-color:white;
+	width:200px;
+	height:200px;
+	border:1px solid black;
+	display:inline-block;
+	margin-right:50px;
+}
+
